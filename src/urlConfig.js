@@ -1,4 +1,4 @@
-export const api = 'https://pluskart-rest-server.vercel.app/api';
+export const api = 'https://web-production-9bb41.up.railway.app/api';
 export const generatePublicUrl = (filename) => {
-    return `https://pluskart-rest-server.vercel.app/public/${filename}`;
+    return `https://web-production-9bb41.up.railway.app/public/${filename}`;
 } 
